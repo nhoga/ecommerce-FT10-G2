@@ -5,7 +5,7 @@
 Click here to see the project https://henryhotel.hruiz.com/
 
 ## Skills
-HTML, CSS, LESS, Ant Design, TypeScript, React, Redux, Node, Express, Supabase
+HTML, CSS, LESS, Ant Design, TypeScript, React, Redux, Node, Express, Supabase, SCRUM.
 
 ## Landing Page 
 
