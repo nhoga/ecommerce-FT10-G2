@@ -16,17 +16,6 @@ Click here to see the project https://henryhotel.hruiz.com/
 
 <img alt='scr' src='https://raw.githubusercontent.com/malenagoni/ecommerce-FT10-G2/main/pics/acommodations.gif'/>
 
-## Events
-
-<img alt='scr' src='https://raw.githubusercontent.com/malenagoni/ecommerce-FT10-G2/main/pics/events.gif'/>
-
-## Booking
-
-<img alt='scr' src='https://raw.githubusercontent.com/malenagoni/ecommerce-FT10-G2/main/pics/booking.gif'/>
-
-## Profile Account
-
-<img alt='scr' src='https://raw.githubusercontent.com/malenagoni/ecommerce-FT10-G2/main/pics/profile.gif'/>
 
 ## Admin Panel
 
