@@ -2,6 +2,39 @@
     <img src= "https://henryhotel.hruiz.com/static/media/logoHotel.accdefa4.png"  </img>
 </p>
 
+Click here to see the project https://henryhotel.hruiz.com/
+
+## Landing Page 
+
+<img alt='scr' src='https://raw.githubusercontent.com/malenagoni/ecommerce-FT10-G2/main/pics/landing.png'/>
+
+## Home
+
+<img alt='scr' src='https://raw.githubusercontent.com/malenagoni/ecommerce-FT10-G2/main/pics/home.gif'/>
+
+## Accomodations
+
+<img alt='scr' src='https://raw.githubusercontent.com/malenagoni/ecommerce-FT10-G2/main/pics/acommodations.gif'/>
+
+## Events
+
+<img alt='scr' src='https://raw.githubusercontent.com/malenagoni/ecommerce-FT10-G2/main/pics/events.gif'/>
+
+## Booking
+
+<img alt='scr' src='https://raw.githubusercontent.com/malenagoni/ecommerce-FT10-G2/main/pics/booking.gif'/>
+
+## Profile Account
+
+<img alt='scr' src='https://raw.githubusercontent.com/malenagoni/ecommerce-FT10-G2/main/pics/profile.gif'/>
+
+## Admin Panel
+
+<img alt='scr' src='https://raw.githubusercontent.com/malenagoni/ecommerce-FT10-G2/main/pics/admin.gif'/>
+
+
+
+
 ## Instalación 
 - En consola utilizar el comando **git clone** utilizando el link de github (Pestaña Code)
 - Luego de clonar el repositorio exitosamente, instalar las dependencias del front, para eso debe posicionarse en la dirección **client** (comando: cd client) e ingresar el comando **npm install**.
