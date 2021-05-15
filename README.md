@@ -4,6 +4,9 @@
 
 Click here to see the project https://henryhotel.hruiz.com/
 
+## Skills
+HTML, CSS, LESS, Ant Design, TypeScript, React, Redux, Node, Express, Supabase
+
 ## Landing Page 
 
 <img alt='scr' src='https://raw.githubusercontent.com/malenagoni/ecommerce-FT10-G2/main/pics/landing.png'/>
