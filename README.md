@@ -10,7 +10,7 @@ Click here to see the project https://henryhotel.hruiz.com/
 
 ## Home
 
-<img alt='scr' src='https://raw.githubusercontent.com/malenagoni/ecommerce-FT10-G2/main/pics/home.gif'/>
+<img alt='scr' src='https://raw.githubusercontent.com/malenagoni/ecommerce-FT10-G2/main/pics/homee.gif'/>
 
 ## Accomodations
 
