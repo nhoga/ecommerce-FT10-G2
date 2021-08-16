@@ -67,7 +67,7 @@ Estos fueron los pasos:
 - David S. Barona M. https://github.com/Davidbarona  https://www.linkedin.com/in/davidbaronamurcia/
 - Juan Cruz Monzani https://github.com/jmonzani  https://www.linkedin.com/in/juancmonzani/
 - Cristobal Zepeda T. https://github.com/PateFunky  https://www.linkedin.com/in/cristobal-zepeda/
-- Nicolas I. Borzone https://github.com/nhoga  https://www.linkedin.com/in/nicolasborzone/
+- Nicolas A. Borzone https://github.com/nhoga  https://www.linkedin.com/in/nicolasborzone/
 - Mauricio Pardo V. https://github.com/mapardo84  https://www.linkedin.com/in/mauricio-pardo-varon/
 - Gabriel E. Patiño https://github.com/lgaespa  https://www.linkedin.com/in/gabrielpati%C3%B1o/
 - Rodrigo E. Velazco F. https://github.com/rodrigovelazco7997 https://www.linkedin.com/in/rodrigo-velazco/
